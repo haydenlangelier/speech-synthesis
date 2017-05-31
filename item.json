@@ -1,0 +1,7 @@
+[
+    {
+        "action": "talk",
+        "voiceName": "Russell",
+        "text": "Hello, this is Hayden. I am testing the Nexmo voice API"
+    }
+]
